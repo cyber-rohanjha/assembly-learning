@@ -1,6 +1,6 @@
 # Assembly Learning Journey
 
-This repository conatins my learninf projects in x86-64 assembly using **NASM**.
+This repository conatins my learning projects in x86-64 assembly using **NASM**.
 
 ## Projects
 
