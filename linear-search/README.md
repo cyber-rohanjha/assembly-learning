@@ -44,7 +44,7 @@ If the target value does not exists:
 Value not found
 ```
 
-## NOTE
+## Notes
 
 - The current version only prints whether the value is found or not.
 - Since the array values and target value is hardcoded, it will always print **Value found!**, unless the values are changed.
