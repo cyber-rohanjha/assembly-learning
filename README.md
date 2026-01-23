@@ -6,5 +6,6 @@ This repository conatins my learninf projects in x86-64 assembly using **NASM**.
 
 - [Hello World](hello-world/README.md)
 - [Linear Search](linear-search/README.md)
+- [Binary Search](binary-search/README.md)
 
 More algorithm and exercises will be added as I progress.
